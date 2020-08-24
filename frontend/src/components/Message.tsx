@@ -8,13 +8,7 @@ interface Props {
 
 const Message = ({ loading }: Props) => {
   return (
-    <div
-      style={{
-        display: 'flex',
-        flexDirection: 'column',
-        paddingLeft: 45,
-      }}
-    >
+    <div className="message">
       {loading ? (
         <BeatLoader />
       ) : (
