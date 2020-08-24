@@ -6,20 +6,19 @@ com filtro por tipo daaa linguagem.
 Na aplicação você terá as opções das 10 linguagem mais usadas em 2020 ou
 poderá efetuar uma busca clicando em Outros...
 
+## Intruções de instalação:
 
+### Backend:
 
-Intruções de instalação:
+- git clone https://github.com/jefersonbrzcosta/git_Repositories.git
+- cd Backend
+- yarn install
+- yarn start
+- http://localhost:3333
 
-Backend:
-git clone https://github.com/jefersonbrzcosta/git_Repositories.git
-cd Backend
-yarn install
-yarn start
-http://localhost:3333
+### Frontend:
 
-
-Frontend:
-cd frontend 
-yarn install
-yarn start
-http://localhost:3000
+- cd frontend
+- yarn install
+- yarn start
+- http://localhost:3000

@@ -1,0 +1,13 @@
+.techlist {
+  width: 20%;
+  float: left;
+  background-color: #f2f2f2f2;
+}
+.repolist {
+  width: 80%;
+  float: right;
+  overflow: scroll;
+}
+.hide {
+  display: none;
+}
